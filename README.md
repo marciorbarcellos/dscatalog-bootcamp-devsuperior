@@ -5,27 +5,27 @@
 ![Image](https://github.com/marciorbarcellos/dscatalog-bootcamp-devsuperior/blob/master/backend/img/DScatalog.gif)
 
 ## Competências
-•	Criação de projeto Spring Boot
-•	Criação de monorepo Git
-•	Organização do projeto em camadas
-	o	Controlador REST
-	o	Serviço
-	o	Acesso a dados (Repository)
-•	Criação de entidades
-•	Configuração de perfil de teste do projeto
-•	Seeding da base de dados
-•	Criação de web services REST
-	o	Parâmetros de rota @PathVariable
-	o	Parâmetros de requisição @RequestParam
-	o	Corpo de requisição @RequestBody
-	o	Resposta da requisição ResponseEntity<T>
-•	Padrão DTO
-•	CRUD completo
-•	Tratamento de exceções
-•	Postman (coleções, ambientes)
-•	Dados de auditoria
-•	Paginação de dados
-•	Associações entre entidades (N-N)
++	Criação de projeto Spring Boot
++	Criação de monorepo Git
++	Organização do projeto em camadas
+	+	Controlador REST
+	+	Serviço
+	+	Acesso a dados (Repository)
++	Criação de entidades
++	Configuração de perfil de teste do projeto
++	Seeding da base de dados
++	Criação de web services REST
+	+	Parâmetros de rota @PathVariable
+	+	Parâmetros de requisição @RequestParam
+	+	Corpo de requisição @RequestBody
+	+	Resposta da requisição ResponseEntity<T>
++	Padrão DTO
++	CRUD completo
++	Tratamento de exceções
++	Postman (coleções, ambientes)
++	Dados de auditoria
++	Paginação de dados
++	Associações entre entidades (N-N)
 
 ## Código do arquivo pom.xml (Spring Boot 2.4.2)
 https://gist.github.com/acenelio/8292b51c23c02b353a478c2b0bd8d85e
