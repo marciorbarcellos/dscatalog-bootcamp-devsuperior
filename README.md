@@ -2,6 +2,8 @@
 
 ## Projeto DSCatalog back end Parte 1
 
+![Image](https://github.com/marciorbarcellos/dscatalog-bootcamp-devsuperior/blob/master/backend/img/DScatalog.gif)
+
 ## Competências
 •	Criação de projeto Spring Boot
 •	Criação de monorepo Git
@@ -44,10 +46,8 @@ https://github.com/devsuperior/dscatalog-resources
 https://www.figma.com/file/1n0aifcfatWv9ozp16XCrq/DSCatalog-Bootcamp
 
 ## Modelo conceitual do DSCatalog
- 
-![Image](https://github.com/marciorbarcellos/dscatalog-bootcamp-devsuperior/blob/main/backend/img/ModeloConceitualDScatalog.jpg)
 
-
+![Image](https://github.com/marciorbarcellos/dscatalog-bootcamp-devsuperior/blob/master/backend/img/ModeloConceitualDScatalog.jpg)
 
 
 
